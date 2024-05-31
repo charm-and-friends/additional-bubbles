@@ -4,8 +4,35 @@ Welcome to the land of bubbles, where the sky's the limit. This is where you can
 find additional [bubbles][bubbles] for the [Bubble Tea][bubbletea] library. This
 repo and its affiliated bubbles are maintained by community members.
 
+## Additional Bubbles
+
+<!-- in alphabetical order by author -->
+
+* [76creates/stickers](https://github.com/76creates/stickers): Responsive
+  flexbox and table components.
+* [calyptia/go-bubble-table](https://github.com/calyptia/go-bubble-table): An
+  interactive, customizable, scrollable table component.
+* [erikgeiser/promptkit](https://github.com/erikgeiser/promptkit): A collection
+  of common prompts for cases like selection, text input, and confirmation.
+  Each prompt comes with sensible defaults, remappable keybindings, any many
+  customization options.
+* [evertras/bubble-table](https://github.com/Evertras/bubble-table): Interactive,
+  customizable, paginated tables.
+* [knipferrc/teacup](https://github.com/knipferrc/teacup): Various handy
+  bubbles and utilities for building Bubble Tea applications.
+* [mritd/bubbles](https://github.com/mritd/bubbles): Some general-purpose
+  bubbles. Inputs with validation, menu selection, a modified progressbar, and
+  so on.
+* [kevm/bubbleo](https://github.com/KevM/bubbleo): A set of bubbles with a
+  focus on navigation: navigation stacks, breakcrumbs, menus and so on.
+* [treilik/bubbleboxer](https://github.com/treilik/bubbleboxer): Layout
+  multiple bubbles side-by-side in a layout-tree.
+* [treilik/bubblelister](https://github.com/treilik/bubblelister): An alternate
+  list that is scrollable without pagination and has the ability to contain
+  other bubbles as list items.
+
 You can PR your completed projects to be included in the list. You're also
-welcome to contribute ideas for new bubbles without building them out. 
+welcome to contribute ideas for new bubbles without building them out.
 
 ## What is a "Complete" Project
 
