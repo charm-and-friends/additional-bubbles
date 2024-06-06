@@ -30,6 +30,8 @@ repo and its affiliated bubbles are maintained by community members.
 * [treilik/bubblelister](https://github.com/treilik/bubblelister): An alternate
   list that is scrollable without pagination and has the ability to contain
   other bubbles as list items.
+* [ethanefung/bubble-datepicker](https://github.com/EthanEFung/bubble-datepicker):
+  A jQuery inspired datepicker component.
 * [genekkion/bubblegum](https://github.com/Genekkion/bubblegum): Simple selection
   window for full screen applications.
 
