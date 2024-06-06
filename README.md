@@ -32,6 +32,8 @@ repo and its affiliated bubbles are maintained by community members.
   other bubbles as list items.
 * [ethanefung/bubble-datepicker](https://github.com/EthanEFung/bubble-datepicker):
   A jQuery inspired datepicker component.
+* [genekkion/bubblegum](https://github.com/Genekkion/bubblegum): Simple selection
+  window for full screen applications.
 
 You can PR your completed projects to be included in the list. You're also
 welcome to contribute ideas for new bubbles without building them out.
