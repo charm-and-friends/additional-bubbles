@@ -34,6 +34,8 @@ repo and its affiliated bubbles are maintained by community members.
   A jQuery inspired datepicker component.
 * [genekkion/bubblegum](https://github.com/Genekkion/bubblegum): Simple selection
   window for full screen applications.
+* [rmhubbert/bubbletea-overlay](https://github.com/rmhubbert/bubbletea-overlay): An
+  overlay / modal window component.
 
 You can PR your completed projects to be included in the list. You're also
 welcome to contribute ideas for new bubbles without building them out.
