@@ -12,30 +12,33 @@ repo and its affiliated bubbles are maintained by community members.
   flexbox and table components.
 * [calyptia/go-bubble-table](https://github.com/calyptia/go-bubble-table): An
   interactive, customizable, scrollable table component.
+* [daltonsw/bubbleup](https://github.com/daltonsw/bubbleup): Notifications and alerts 
+  in your TUI apps with a simple and customizable bubble. Bubble your alerts up like
+  bubbles in a soda.
+* [ethanefung/bubble-datepicker](https://github.com/EthanEFung/bubble-datepicker):
+  A jQuery inspired datepicker component.
 * [erikgeiser/promptkit](https://github.com/erikgeiser/promptkit): A collection
   of common prompts for cases like selection, text input, and confirmation.
   Each prompt comes with sensible defaults, remappable keybindings, any many
   customization options.
 * [evertras/bubble-table](https://github.com/Evertras/bubble-table): Interactive,
   customizable, paginated tables.
+* [genekkion/bubblegum](https://github.com/Genekkion/bubblegum): Simple selection
+  window for full screen applications.
+* [kevm/bubbleo](https://github.com/KevM/bubbleo): A set of bubbles with a
+  focus on navigation: navigation stacks, breakcrumbs, menus and so on.
 * [knipferrc/teacup](https://github.com/knipferrc/teacup): Various handy
   bubbles and utilities for building Bubble Tea applications.
 * [mritd/bubbles](https://github.com/mritd/bubbles): Some general-purpose
   bubbles. Inputs with validation, menu selection, a modified progressbar, and
   so on.
-* [kevm/bubbleo](https://github.com/KevM/bubbleo): A set of bubbles with a
-  focus on navigation: navigation stacks, breakcrumbs, menus and so on.
+* [rmhubbert/bubbletea-overlay](https://github.com/rmhubbert/bubbletea-overlay): An
+  overlay / modal window component.
 * [treilik/bubbleboxer](https://github.com/treilik/bubbleboxer): Layout
   multiple bubbles side-by-side in a layout-tree.
 * [treilik/bubblelister](https://github.com/treilik/bubblelister): An alternate
   list that is scrollable without pagination and has the ability to contain
   other bubbles as list items.
-* [ethanefung/bubble-datepicker](https://github.com/EthanEFung/bubble-datepicker):
-  A jQuery inspired datepicker component.
-* [genekkion/bubblegum](https://github.com/Genekkion/bubblegum): Simple selection
-  window for full screen applications.
-* [rmhubbert/bubbletea-overlay](https://github.com/rmhubbert/bubbletea-overlay): An
-  overlay / modal window component.
 
 You can PR your completed projects to be included in the list. You're also
 welcome to contribute ideas for new bubbles without building them out.
