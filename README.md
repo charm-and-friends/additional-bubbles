@@ -32,6 +32,8 @@ repo and its affiliated bubbles are maintained by community members.
 * [mritd/bubbles](https://github.com/mritd/bubbles): Some general-purpose
   bubbles. Inputs with validation, menu selection, a modified progressbar, and
   so on.
+* [rmhubbert/bubbletea-overlay](https://github.com/rmhubbert/bubbletea-overlay): An
+  overlay / modal window component.
 * [treilik/bubbleboxer](https://github.com/treilik/bubbleboxer): Layout
   multiple bubbles side-by-side in a layout-tree.
 * [treilik/bubblelister](https://github.com/treilik/bubblelister): An alternate
