@@ -32,6 +32,7 @@ repo and its affiliated bubbles are maintained by community members.
 * [mritd/bubbles](https://github.com/mritd/bubbles): Some general-purpose
   bubbles. Inputs with validation, menu selection, a modified progressbar, and
   so on.
+* [plutonium-239/listExtensions](https://github.com/plutonium-239/listExtensions): A configurable, customizable and scrollable list bubble and also a basic list w/o pagination (for use with viewport). 
 * [rmhubbert/bubbletea-overlay](https://github.com/rmhubbert/bubbletea-overlay): An
   overlay / modal window component.
 * [treilik/bubbleboxer](https://github.com/treilik/bubbleboxer): Layout
