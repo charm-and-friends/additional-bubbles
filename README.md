@@ -39,6 +39,8 @@ repo and its affiliated bubbles are maintained by community members.
 * [treilik/bubblelister](https://github.com/treilik/bubblelister): An alternate
   list that is scrollable without pagination and has the ability to contain
   other bubbles as list items.
+* [ortizalec/bubbles](https://github.com/ortizalec/bubbles): A delightful way
+  to render key-value metrics.
 
 You can PR your completed projects to be included in the list. You're also
 welcome to contribute ideas for new bubbles without building them out.
