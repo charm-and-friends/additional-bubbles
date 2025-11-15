@@ -29,6 +29,7 @@ repo and its affiliated bubbles are maintained by community members.
   focus on navigation: navigation stacks, breakcrumbs, menus and so on.
 * [knipferrc/teacup](https://github.com/knipferrc/teacup): Various handy
   bubbles and utilities for building Bubble Tea applications.
+* [marcelblijleven/bubbles-hlist](https://github.com/marcelblijleven/bubbles-hlist): Like bubbles/list, but horizontal
 * [mritd/bubbles](https://github.com/mritd/bubbles): Some general-purpose
   bubbles. Inputs with validation, menu selection, a modified progressbar, and
   so on.
