@@ -33,6 +33,7 @@ repo and its affiliated bubbles are maintained by community members.
 * [mritd/bubbles](https://github.com/mritd/bubbles): Some general-purpose
   bubbles. Inputs with validation, menu selection, a modified progressbar, and
   so on.
+* [muhamm-ad/bubble-ssh](https://github.com/muhamm-ad/bubble-ssh): An SSH terminal component.
 * [rmhubbert/bubbletea-overlay](https://github.com/rmhubbert/bubbletea-overlay): An
   overlay / modal window component.
 * [treilik/bubbleboxer](https://github.com/treilik/bubbleboxer): Layout
