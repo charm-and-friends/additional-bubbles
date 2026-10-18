@@ -35,6 +35,8 @@ repo and its affiliated bubbles are maintained by community members.
   so on.
 * [muhamm-ad/bubble-ssh](https://github.com/muhamm-ad/bubble-ssh): An SSH terminal component.
 * [plutonium-239/listExtensions](https://github.com/plutonium-239/listExtensions): A configurable, customizable and scrollable list bubble and also a basic list w/o pagination (for use with viewport). 
+* [rickthegreatest/boxmaid](https://github.com/rickthegreatest/boxmaid/tree/main/tui):
+  A pannable Mermaid diagram component with width-aware layout and semantic styling.
 * [rmhubbert/bubbletea-overlay](https://github.com/rmhubbert/bubbletea-overlay): An
   overlay / modal window component.
 * [treilik/bubbleboxer](https://github.com/treilik/bubbleboxer): Layout
